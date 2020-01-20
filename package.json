@@ -57,7 +57,7 @@
     "it-protocol-buffers": "^0.2.0",
     "latency-monitor": "~0.2.1",
     "libp2p-crypto": "^0.17.1",
-    "libp2p-interfaces": "^0.1.5",
+    "libp2p-interfaces": "^0.2.2",
     "mafmt": "^7.0.0",
     "merge-options": "^2.0.0",
     "moving-average": "^1.0.0",
